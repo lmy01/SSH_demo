@@ -1,6 +1,7 @@
 SSH免密操作：
  1 生成一个公钥和私钥
-ssh-keygen -t rsa
+ssh-keygen -t rsa，
+ 一直回车到底，不用输入，即可生成公钥和私钥
 
 2 将 公钥 放到github账户中
 
